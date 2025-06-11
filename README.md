@@ -1,2 +1,5 @@
 # blog-code-snippets
-This will contain all my blogs writing and layout
+🔹 Written versions of your YouTube content
+🔹 Longer concept explanations
+🔹 Personal reflections
+🔹 Project overview with code
